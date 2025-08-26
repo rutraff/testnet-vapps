@@ -1,9 +1,9 @@
-# vApp Submission: [Your Project Name]
+# vApp Submission: [rutraffsoundDEVV]
 
 ## Verification
 ```yaml
-github_username: "your-username"
-discord_id: "123456789012345678"
+github_username: "rutraff"
+discord_id: "756685757875486870"
 timestamp: "2025-01-15"
 ```
 
