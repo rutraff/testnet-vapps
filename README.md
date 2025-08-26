@@ -8,7 +8,7 @@ Verify GitHub ownership and submit vApp and zkApp proposals for Soundness Layer 
 ## Quick Start
 
 1. Fork this repository
-2. Copy `TEMPLATE.md` to `submissions/{category}/{your-github-username}.md`
+2. Copy `TEMPLATE.md` to `submissions/{other}/{rutraff}.md`
 3. Fill out your vApp proposal
 4. Create Pull Request
 5. Join [Discord](https://discord.gg/soundnesslabs) and use `/submit-vapp` command
@@ -24,8 +24,8 @@ Verify GitHub ownership and submit vApp and zkApp proposals for Soundness Layer 
 
 ## Requirements
 
-- Valid GitHub username (must match PR author)
-- Discord ID for verification
+- Valid GitHub username (rutraff)
+- Discord ID for verification (756685757875486870)
 - Technical architecture with SL integration
 - Realistic development timeline
 
